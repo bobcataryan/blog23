@@ -1,0 +1,7 @@
+body{
+background-image: url("bg1.jpg");
+}
+#myCanvas{
+    border: 5px;
+    border-color: black;
+}
